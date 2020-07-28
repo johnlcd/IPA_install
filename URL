@@ -1,2 +1,2 @@
-itms-services://?action=download-manifest&url=https://github.com/johnlcd/IPA_install/blob/master/install.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/johnlcd/IPA_install/master/install.plist
 #itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/johnlcd/IPA_install/blob/master/install.plist

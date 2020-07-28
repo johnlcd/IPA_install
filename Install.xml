@@ -1,1 +1,3 @@
-<a href="itms-services://?action=download-manifest&url=https://github.com/johnlcd/IPA_install/blob/master/install.plist">点此安装</a>
+<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/johnlcd/IPA_install/master/install.plist">
+	点此安装
+</a>
