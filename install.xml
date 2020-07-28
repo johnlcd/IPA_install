@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://github.com/johnlcd/IPA_install/tree/master/software/app.ipa</string>
+					<string>https://github.com/johnlcd/IPA_install/tree/master/software/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
