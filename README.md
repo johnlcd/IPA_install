@@ -11,4 +11,4 @@ Install IPA(Apple) software
 <br>
 
 ## URL for download
-> Click [here]("itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/johnlcd/IPA_install/master/install.plist")
+> Click [here](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/johnlcd/IPA_install/master/install.plist)
